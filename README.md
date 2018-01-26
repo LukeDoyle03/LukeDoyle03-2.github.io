@@ -34,8 +34,8 @@
  <body>
 
  <ul>
-   <li><a class="active" href="#home">Home</a></li>
-   <li><a href="#Facts">Facts</a></li>
+   <li><a class="active" href="https://lukedoyle03.github.io/Codingproject.github.io/">Home</a></li>
+   <li><a href="#https://lukedoyle03.github.io/LukeDoyle03-2.github.io/">Facts</a></li>
    <li><a href="#images">Images</a></li>
  </ul> 
 
